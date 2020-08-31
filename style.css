@@ -55,11 +55,12 @@ body{
 
     }
     #num1{
-        width: 10%;
+        width: auto;
         margin-left: 30%;
         float: left;
     }
     #num2{
+        width: auto;
         margin-right: 30%;
         float: right;
     }
