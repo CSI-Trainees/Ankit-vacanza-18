@@ -39,7 +39,7 @@ body{
         opacity: 0.9;
     }
     .vacanza_logo:hover{
-        -webkit-transform: rotate(360deg) translateZ(0);
+        -webkit-transform: rotate(480deg) translateZ(0);
     }
     .svg{
         width: 50%;
