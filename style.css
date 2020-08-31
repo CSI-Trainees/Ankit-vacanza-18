@@ -83,7 +83,6 @@ body{
         padding: 10px 10px 10px 10px;
         background-color: white;
         word-spacing: 5px;
-        word-spacing: 3px;
         font-size: 30px;
     }
 
@@ -108,7 +107,6 @@ body{
         background-image: url(images/footer.png);
         padding: 5%;
         text-align: center;
-        color: white;
         font-size: 30px;
     }
 
